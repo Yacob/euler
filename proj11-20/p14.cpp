@@ -48,6 +48,6 @@ int main(){
 			sequenceStart = i;
 		}
 	}
-	cout << collatzLength << endl;
+	cout << sequenceStart << endl;
 	return 0;
 }
